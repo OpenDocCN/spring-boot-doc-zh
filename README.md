@@ -6,10 +6,7 @@
 
 翻译：[geekidentity](http://blog.geekidentity.com/)
 
-+   [在线阅读](https://spring-boot.apachecn.org)
-+   [在线阅读（Gitee）](https://apachecn.gitee.io/spring-boot-doc-zh/)
-
-
++   [在线阅读](https://spring-boot.flygon.net)
 ## 下载
 
 ### Docker
@@ -17,14 +14,6 @@
 ```
 docker pull apachecn0/spring-boot-doc-zh
 docker run -tid -p <port>:80 apachecn0/spring-boot-doc-zh
-# 访问 http://localhost:{port} 查看文档
-```
-
-### PYPI
-
-```
-pip install spring-boot-doc-zh
-spring-boot-doc-zh <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
